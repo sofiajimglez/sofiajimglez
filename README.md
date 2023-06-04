@@ -1,10 +1,10 @@
 ![me](https://res.cloudinary.com/dorpbnltc/image/upload/v1685904233/LinkedIn_Cover_wmysgb.png)
 
-Hi! 😊 I'm a junior web developer with +5 years of experience in design and digital marketing.
+Hi! 😊 I'm a **web developer** with +5 years of experience in **design** and **digital marketing**.
 
-Recently, I decided to turn my career around and focus on development taking a bootcamp where I have learned technologies such as Javascript, HTML, CSS, NodeJS, Express, MongoDB and React.
+Recently, I decided to turn my career around and **focus on development** taking a bootcamp where I have learned technologies such as **Javascript**, **HTML**, **CSS**, **NodeJS**, **Express**, **MongoDB** and **React**.
 
-I consider myself a committed, problem-solving and fast-learning professional. 
+I consider myself a **committed**, **problem-solving** and **fast-learning** professional. 
 
 Let's talk and explore how I can bring value to your team! 
 
