@@ -1,4 +1,4 @@
-![me](https://res.cloudinary.com/dorpbnltc/image/upload/v1685901988/LinkedIn_Cover_p2d9ws.png)
+![me](https://res.cloudinary.com/dorpbnltc/image/upload/v1685904233/LinkedIn_Cover_wmysgb.png)
 
 Hi! 😊 I'm a junior web developer with +5 years of experience in design and digital marketing.
 
