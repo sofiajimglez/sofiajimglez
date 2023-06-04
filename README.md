@@ -1,6 +1,7 @@
-### Hi there 👋
+![me](https://res.cloudinary.com/dorpbnltc/image/upload/v1685901988/LinkedIn_Cover_p2d9ws.png)
 
 <!--
+### Hi! 😊
 **sofiajimglez/sofiajimglez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
