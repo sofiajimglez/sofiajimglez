@@ -1,7 +1,6 @@
-### Hi! 😊
 ![me](https://res.cloudinary.com/dorpbnltc/image/upload/v1685901988/LinkedIn_Cover_p2d9ws.png)
 
-I'm a junior web developer with +5 years of experience in design and digital marketing.
+Hi! 😊 I'm a junior web developer with +5 years of experience in design and digital marketing.
 
 Recently, I decided to turn my career around and focus on development taking a bootcamp where I have learned technologies such as Javascript, HTML, CSS, NodeJS, Express, MongoDB and React.
 
@@ -15,7 +14,7 @@ I consider myself a committed, problem-solving and fast-learning professional. L
 
 
 <!--
-
+### Hi! 😊
 **sofiajimglez/sofiajimglez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
