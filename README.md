@@ -4,7 +4,9 @@ Hi! 😊 I'm a junior web developer with +5 years of experience in design and di
 
 Recently, I decided to turn my career around and focus on development taking a bootcamp where I have learned technologies such as Javascript, HTML, CSS, NodeJS, Express, MongoDB and React.
 
-I consider myself a committed, problem-solving and fast-learning professional. Let's talk and explore how I can bring value to your team! 
+I consider myself a committed, problem-solving and fast-learning professional. 
+
+Let's talk and explore how I can bring value to your team! 
 
 - 🔭 I’m currently working on personal projects and looking for a job as junior web developer
 - 🌱 I’m currently learning advanced React and Typescript
