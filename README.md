@@ -1,4 +1,4 @@
-![me](https://res.cloudinary.com/dorpbnltc/image/upload/v1726396246/LinkedIn_Cover_wmysgb.png)
+![me](https://res.cloudinary.com/dorpbnltc/image/upload/t_LinkedIn_Cover_wmysgb/v1726396246/LinkedIn_Cover_wmysgb.png)
 
 Hi! 😊 I'm a **software developer** with +5 years of experience in **design** and **digital marketing**.
 
