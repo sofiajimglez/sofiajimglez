@@ -2,7 +2,9 @@
 
 Hi! 😊 I'm a **software developer** with +5 years of experience in **design** and **digital marketing**.
 
-Last year, I decided to turn my career around and **focus on development** taking a bootcamp where I have learned technologies such as **Javascript**, **HTML**, **CSS**, **NodeJS**, **Express**, **MongoDB** and **React**. Since then, as part of Driblab -a technology startup based on football analytics with big data-, I am developing dynamic front-end interfaces with **Vue.js** while gaining experience in back-end systems with **Java** and **PostgreSQL**.
+Last year, I decided to turn my career around and **focus on development** taking a bootcamp where I have learned technologies such as **Javascript**, **HTML**, **CSS**, **NodeJS**, **Express**, **MongoDB** and **React**. 
+
+Since then, as part of **Driblab** -a technology startup based on football analytics with big data-, I am developing dynamic front-end interfaces with **Vue.js** while gaining experience in back-end systems with **Java** and **PostgreSQL**.
 
 I consider myself a **committed**, **problem-solving** and **fast-learning** professional. 
 
